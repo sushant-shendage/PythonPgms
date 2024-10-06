@@ -1,5 +1,5 @@
 #  title :prime number pgm
-#  
+#  (num/2) iteration
 num=53
 print((int)(num/2)+1)
 for i in range(2,(int)(num/2)+1):
